@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ray Rahmanda</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=x4d0&label=Profile%20views&color=0e75b6&style=flat" alt="x4d0" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=x4d0&label=Profile%20views&color=0e75b6&style=flat" alt="x4d0" /> </p>
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
