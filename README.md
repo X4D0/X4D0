@@ -2,11 +2,17 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=x4d0&label=Profile%20views&color=0e75b6&style=flat" alt="x4d0" /> </p>
 
+<h3 align="center">Website</h3>
+<p align="center">
+<a href="https://rayhan.vercel.app/" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_web-256.png" alt="My Website" height="40" width="40" /></a>
+</p>
+
 <h3 align="center">Connect with me</h3>
 <p align="center">
 <a href="https://twitter.com/rayrahmanda" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rayrahmanda" height="30" width="40" /></a>
 <a href="https://fb.com/rayhan.rahmanda" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="rayhan.rahmanda" height="30" width="40" /></a>
 <a href="https://instagram.com/rayr._" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rayr._" height="30" width="40" /></a>
+<a href="https://id.linkedin.com/in/rayhan-rahmanda" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Rayhan Rahmanda" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools</h3>
