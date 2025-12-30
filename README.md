@@ -3,10 +3,6 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=x4d0" alt="x4d0" /></a> </p>
 
-- 👨‍💻 All of my projects and experiences are available at [rayr.my.id](rayr.my.id)
-
-- ⚡ Fun fact **In love with Martabak**
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/__rayr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="__rayr" height="30" width="40" /></a>
